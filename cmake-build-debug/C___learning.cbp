@@ -87,6 +87,9 @@
 		<Unit filename="D:/C++_learning/main.cpp">
 			<Option target="C___learning"/>
 		</Unit>
+		<Unit filename="D:/C++_learning/myComplex.h">
+			<Option target="C___learning"/>
+		</Unit>
 		<Unit filename="D:/C++_learning/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

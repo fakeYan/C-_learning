@@ -3,4 +3,4 @@ project(C___learning)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(C___learning main.cpp)
+add_executable(C___learning main.cpp myComplex.h)
